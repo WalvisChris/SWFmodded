@@ -19,6 +19,8 @@ Download the offical AntiMicroX [here](https://ruffle.rs/).
 |🛆|Y|`K`|use mace 2|
 |◯|B|`L`|use mace 3|
 |R3|RS Click|`LMB`|left mouse click|
+|OPTIONS|Start|`ESC`|pauze game|
+|Touchpad|Button 21|`Space`|skip tutorial|
 
 
 **Mouse:** click `R Stick`, presets `Mouse (Normal)`.
