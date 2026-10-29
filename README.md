@@ -4,7 +4,7 @@ Download the official Ruffle [here](https://github.com/AntiMicroX/antimicrox/rel
 
 # AnitMicroX  
 use AntiMicroX to translate controller inputs to cursor inputs and modded buttons.  
-Download the offical AnitMicroX [here](https://ruffle.rs/).  
+Download the offical AntiMicroX [here](https://ruffle.rs/).  
 
 # Games  
 ### Paladog  
