@@ -10,6 +10,8 @@ Download the offical AntiMicroX [here](https://ruffle.rs/).
 ### Paladog  
 | PS5 | AnitMicroX | Key | Action|
 |-|-|-|-|
+|Left Stick: left|L Stick: left|`A`|move left|
+|Left Stick: right|L Stick: right|`D`|move right|
 |✕|A|`X`|spawn unit|
 |L1|L Shoulder|`[`|previous unit|
 |R1|R Shoulder|`]`|next unit|
