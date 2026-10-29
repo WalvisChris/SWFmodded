@@ -1,10 +1,10 @@
 # SWF games  
 Use a flash player like "Ruffle" which works on both Windows and Linux.  
-Download the offical AnitMicroX [here](https://ruffle.rs/).  
+Download the official Ruffle [here](https://github.com/AntiMicroX/antimicrox/releases).  
 
 # AnitMicroX  
-use AntiMicroX to translate controller inputs to cursor inputs and modded buttons.
-Download the official Ruffle [here](https://github.com/AntiMicroX/antimicrox/releases).    
+use AntiMicroX to translate controller inputs to cursor inputs and modded buttons.  
+Download the offical AnitMicroX [here](https://ruffle.rs/).  
 
 # Games  
 ### Paladog  
